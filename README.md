@@ -1,4 +1,6 @@
 
+
+
 # welcome bot: A Probot App
 
   
@@ -33,7 +35,7 @@ You can automatic your repozitory, say to new user:
 
   
 
-```
+```yaml
 
 # Configuration for welcome - https://github.com/behaviorbot/welcome
 
@@ -113,5 +115,6 @@ This project is maintained by Monalisa Octocat and friends. Use of this project 
   
 
 <hr >
+
 
 I'll meet you over thsi project, you can't wait to get started!
